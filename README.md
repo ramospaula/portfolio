@@ -4,7 +4,7 @@
   Porfólio
 </h1>
 <p align="center">
-  projeto em desenvolvimento para o compartilhamento de informações na área de desenvolvimento back-end e front-end em projetos pessoais
+  Projeto em desenvolvimento para o compartilhamento de informações na área de desenvolvimento back-end e front-end em projetos pessoais feitos
 </p>
 
 <!-- AUTO-GENERATED-CONTENT:END -->
